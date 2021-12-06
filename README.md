@@ -6,5 +6,5 @@ simply an example, and not meant to be ideal hashing functions.
 
 In this case : 
 
--The function h1 takes a key and hashes it to the index of its leftmost digit, modulo tablesize.
+-The function h1 takes a key and hashes it to the index of its leftmost digit, modulo tablesize.</br>
 -The function h2 takes a key and hashes it to the index of its rightmost digit, modulo tablesize.
